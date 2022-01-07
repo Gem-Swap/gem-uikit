@@ -1,5 +1,5 @@
 {
-  "name": "gemswap-libs-uikit",
+  "name": "@gemoswap-libs/uikit",
   "version": "0.1.4",
   "description": "Set of UI components for gemswap projects",
   "main": "dist/index.cjs.js",
