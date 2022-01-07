@@ -1,6 +1,6 @@
 {
   "name": "@gemswap-libs/uikit",
-  "version": "1.0.0",
+  "version": "0.1.4",
   "description": "Set of UI components for gemswap projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -8,10 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Gem-Swap/gem-uikit.git"
-  },
+  "repository": "https://github.com/wakandaswap/wakanda-uikit",
   "license": "MIT",
   "scripts": {
     "build": "rm -rf ./dist && rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
@@ -78,10 +75,5 @@
     "lodash": "^4.17.20",
     "react-transition-group": "^4.4.1",
     "styled-system": "^5.1.5"
-  },
-  "bugs": {
-    "url": "https://github.com/Gem-Swap/gem-uikit/issues"
-  },
-  "homepage": "https://github.com/Gem-Swap/gem-uikit#readme",
-  "author": "Casweeney Ojukwu"
+  } 
 }
