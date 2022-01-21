@@ -31,11 +31,11 @@ const ConnectModal: React.FC<Props> = ({ login, onDismiss = () => null }) => (
       />
     ))}
     <HelpLink
-      href="https://docs.wakandaswap.finance/guides/faq#how-do-i-set-up-my-wallet-on-binance-smart-chain"
+      href="#"
       external
     >
       <HelpIcon color="primary" mr="6px" />
-      Learn how to connect
+      {/* Learn how to connect */}
     </HelpLink>
   </Modal>
 );

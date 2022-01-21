@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.wakandaswap.finance",
+        href: "https://dex.gemswap.org",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.wakandaswap.finance/#/pool",
+        href: "https://dex.gemswap.org/#/pool",
       },
     ],
   },
@@ -59,19 +59,19 @@ export const links = [
   //   items: [
   //     {
   //       label: "Overview",
-  //       href: "https://wakandaswap.info",
+  //       href: "https://gemswap.info",
   //     },
   //     {
   //       label: "Tokens",
-  //       href: "https://wakandaswap.info/tokens",
+  //       href: "https://gemswap.info/tokens",
   //     },
   //     {
   //       label: "Pairs",
-  //       href: "https://wakandaswap.info/pairs",
+  //       href: "https://gemswap.info/pairs",
   //     },
   //     {
   //       label: "Accounts",
-  //       href: "https://wakandaswap.info/accounts",
+  //       href: "https://gemswap.info/accounts",
   //     },
   //   ],
   // },
@@ -95,7 +95,7 @@ export const links = [
   //   items: [
   //     {
   //       label: "Voting",
-  //       href: "https://voting.wakandaswap.finance",
+  //       href: "https://voting.gemswap.org",
   //     },
   //     {
   //       label: "Github",
@@ -103,11 +103,11 @@ export const links = [
   //     },
   //     {
   //       label: "Docs",
-  //       href: "https://docs.wakandaswap.finance",
+  //       href: "https://docs.gemswap.org",
   //     },
   //     {
   //       label: "Blog",
-  //       href: "https://wakandaswap.medium.com",
+  //       href: "https://gemswap.medium.com",
   //     },
   //   ],
   // },
@@ -117,22 +117,22 @@ export const socials = [
   {
     label: "Github",
     icon: "GithubIcon",
-    href: "https://github.com/wakandaswap",
+    href: "https://github.com/Gem-Swap",
+  },
+  {
+    label: "Docs",
+    icon: "GitbookIcon",
+    href: "https://gemdev.gitbook.io/gemswap/",
   },
   // {
-  //   label: "Docs",
-  //   icon: "GitbookIcon",
-  //   href: "https://docs.wakandaswap.finance",
+  //   label: "Medium",
+  //   icon: "MediumIcon",
+  //   href: "https://gem.medium.com",
   // },
-  {
-    label: "Medium",
-    icon: "MediumIcon",
-    href: "https://wakandainu.medium.com",
-  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/wakandainu",
+    href: "https://twitter.com/gemswap_defi",
   },
   {
     label: "Telegram",
@@ -140,11 +140,11 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/wakandainu",
+        href: "https://t.me/officialGemswapcommunity",
       },
       // {
       //   label: "Announcements",
-      //   href: "https://t.me/WakandaSwapAnn",
+      //   href: "https://t.me/gemswap",
       // },
     ],
   },
