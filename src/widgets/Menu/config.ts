@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://dex.gemswap.org",
+        href: "https://exchange.gemswap.org/",
       },
       {
         label: "Liquidity",
-        href: "https://dex.gemswap.org/#/pool",
+        href: "https://exchange.gemswap.org/#/pool",
       },
     ],
   },
